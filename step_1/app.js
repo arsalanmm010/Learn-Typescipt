@@ -1,0 +1,10 @@
+var a = "Pakistan";
+a = "USA";
+var b = 9;
+var c = true;
+var e = "USA";
+var f = 10.9;
+f = 22;
+var g = false;
+g = true;
+console.log(a, b, c, e, f, g);
